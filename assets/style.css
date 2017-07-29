@@ -111,11 +111,11 @@ td > code > a{
   font-weight: 700;
 }
 .documentation pre {
-  padding: 1rem;
-  background: #052E52;
-  color: #e6e1dc;
+  background-color: #313131;
+  color: #a7a7a7;
+  padding: 16px;
+  overflow-x: scroll;
   font-size: 0.9rem;
-
 }
 .bg-midnight { background: #052E52; }
 .dark-link a { color: #052E52; }
